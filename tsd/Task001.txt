@@ -1,0 +1,13 @@
+Task001
+
+Task:
+We have integer array of elements example -> [1, 4, 8]
+If we have in array more than 5 elements, we summarize all elements,
+If in array 3-5 elements we subtract all values,
+If in array 2 elements we division elements
+And if in array 1 element we get it cubed like 3^3 = 27 or 2^3 = 8
+Last thing, if array empty we return string "EMPTY ARRAY"
+
+Naming:
+Object name -> Task001
+Method name -> doOperation(<array>)

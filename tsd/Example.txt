@@ -1,0 +1,12 @@
+Example.
+
+Task:
+We need get summarize(exSum) or subtraction(exSub) of two integers.
+Need get last element in array (exGetLastIndex).
+
+
+Naming:
+Object name -> Example
+Method name -> exSum(<number>, <number>)
+Method name -> exSub(<number>, <number>)
+Method name -> exGetLastIndex(<array>)
