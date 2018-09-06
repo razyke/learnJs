@@ -28,7 +28,7 @@ describe("Example test", function () {
         expect(sub2).toBe(1, "6 - 5 equals 1");
     });
 
-    it('should get last index in array', function () {
+    it('should get last element in array', function () {
 
         let lastElement = sut.exGetLastElement([1, 2, 3]);
 

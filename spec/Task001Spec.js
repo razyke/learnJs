@@ -22,15 +22,15 @@ describe("Task001 test", function () {
 
         let sub = sut.doOperation([5, 1, 2]);
 
-        let sub2 = sut.doOperation([10, 0, 3, 2]);
+        let sub2 = sut.doOperation([1, 0, 3, 2]);
 
         let sub3 = sut.doOperation([5, 4, 3, 2, 1]);
 
-        expect(sub).toBe(2, "There must be subtraction between elements ");
+        expect(sub).toBe(-8, "There must be subtraction between elements ");
 
-        expect(sub2).toBe(5, "There must be subtraction between elements ");
+        expect(sub2).toBe(-6, "There must be subtraction between elements ");
 
-        expect(sub3).toBe(-5, "There must be subtraction between elements ");
+        expect(sub3).toBe(-15, "There must be subtraction between elements ");
     });
 
     it('should get division of 2 elements', function () {
@@ -43,9 +43,19 @@ describe("Task001 test", function () {
             let res = sut.doOperation(given[i]);
             expect(res).toBe(expected[i], "There must be division")
         }
-        let lastElement2 = sut.exGetLastElement([3, 5, "bingo"]);
 
-        expect(lastElement2).toEqual("bingo", "last element in array is \"bingo\"");
+    });
+
+    it('should get number in cube', function () {
+
+        let result = sut.doOperation([2]);
+
+        expect(result).toBe(8, "There must be number in cube");
+
+        let result2 = sut.doOperation([3]);
+
+        expect(result2).toBe(27, "There must be number in cube");
+
     });
 
     it('should get \"EMPTY ARRAY\"', function () {
