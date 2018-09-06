@@ -1,4 +1,4 @@
-Task001
+Task001 - Magic Operation
 
 Task:
 We have integer array of elements example -> [1, 4, 8]

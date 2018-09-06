@@ -1,4 +1,4 @@
-describe("Task001 test", function () {
+describe("Task001 tests", function () {
 
     let sut;
 

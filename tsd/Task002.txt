@@ -1,0 +1,15 @@
+Task002 - Alisa
+
+Task:
+
+We provide array of chars like ["A","l","i","s","a"] or like this ["A", "A", "s" , "W", "w", "Z", "t"]
+In method(isAlisaCouldCreated) you should return boolean - could we create "Alisa" from characters or not;
+true - if we can create.
+false - if we can't.
+
+Be aware, that one "A" in uppercase and another "a" in lowercase.
+"Alisa" is key sensitive.
+
+Naming:
+Object name -> Task002
+Method name -> isAlisaCouldCreated(<array>)

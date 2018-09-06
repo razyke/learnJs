@@ -1,4 +1,4 @@
-describe("Example test", function () {
+describe("Example tests", function () {
 
     let sut;
 
