@@ -12,4 +12,4 @@ Be aware, that one "A" in uppercase and another "a" in lowercase.
 
 Naming:
 Object name -> Task002
-Method name -> isAlisaCouldCreated(<array>)
+Method name -> isAlisaCouldCreated(<array>) -> expect return boolean

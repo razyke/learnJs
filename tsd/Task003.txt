@@ -1,0 +1,16 @@
+Task003 - Even / Odd
+
+Task:
+
+We need sort our array on 2 arrays one has odd numbers and another has even numbers so method returns array witch has
+two arrays 1-st even array and 2-nd odd array (splitOnEvenOdd).
+But this is not all, after sort we need send it to method that will all even numbers summarize
+and all odd numbers multiply in arrays, returning value will be sum of this arrays(getMagicNumber)
+
+Naming:
+Object name -> Task003
+Method name -> splitOnEvenOdd(<array>) -> expect return array[[even numbers],[odd numbers]]
+Method name -> getMagicNumber(<even array>, <odd array>) -> expect return one value
+
+Tips:
+Look what do method .push() in arrays.

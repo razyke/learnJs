@@ -10,4 +10,4 @@ Last thing, if array empty we return string "EMPTY ARRAY"
 
 Naming:
 Object name -> Task001
-Method name -> doOperation(<array>)
+Method name -> doOperation(<array>) -> expect return one value.

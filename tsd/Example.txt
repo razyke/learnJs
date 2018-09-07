@@ -7,6 +7,6 @@ Need get last element in array (exGetLastIndex).
 
 Naming:
 Object name -> Example
-Method name -> exSum(<number>, <number>)
-Method name -> exSub(<number>, <number>)
-Method name -> exGetLastIndex(<array>)
+Method name -> exSum(<number>, <number>) -> expect return one value
+Method name -> exSub(<number>, <number>) -> expect return one value
+Method name -> exGetLastIndex(<array>) -> expect return one value
