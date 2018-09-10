@@ -1,0 +1,13 @@
+Task004 - Left shift
+
+Task:
+We send an array of integers values and number that say how much times we need do left shift in the array.
+
+Example:
+
+leftShift([1,2,3,4], 2) -> [3,4,1,2]
+
+
+Naming:
+Object name -> Task004
+Method name -> leftShift(<array>, <number>) -> expect return shifted array
