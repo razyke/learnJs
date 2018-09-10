@@ -1,9 +1,8 @@
 Task002 - Alisa
 
 Task:
-
-We provide array of chars like ["A","l","i","s","a"] or like this ["A", "A", "s" , "W", "w", "Z", "t"]
-In method(isAlisaCouldCreated) you should return boolean - could we create "Alisa" from characters or not;
+We provide in array chars like ["A","l","i","s","a"] or like this ["A", "A", "s" , "W", "w", "Z", "t"]
+In method(isAlisaCouldCreated) you should return answer(boolean) - could we create "Alisa" from characters or not?
 true - if we can create.
 false - if we can't.
 

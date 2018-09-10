@@ -1,11 +1,12 @@
 Task003 - Even / Odd
 
 Task:
+We need to sort our array on 2 arrays. One has odd numbers and another has even numbers.
+Method returns 2 arrays: 1-st even array and 2-nd odd array (splitOnEvenOdd).
 
-We need sort our array on 2 arrays one has odd numbers and another has even numbers so method returns array witch has
-two arrays 1-st even array and 2-nd odd array (splitOnEvenOdd).
-But this is not all, after sort we need send it to method that will all even numbers summarize
-and all odd numbers multiply in arrays, returning value will be sum of this arrays(getMagicNumber)
+But this is not all after sort we need send it to the method that will summarize array with even numbers,
+array with odd numbers will multiply.
+Return sum of this values(getMagicNumber)
 
 Naming:
 Object name -> Task003
