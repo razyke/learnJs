@@ -1,0 +1,16 @@
+Task005 - Uppercase worlds
+
+Task:
+Here is sentence with spaces in lowercase we expect in result every world in this sentence will be in uppercase.
+
+Example:
+
+transformSentence("hello fred and world") -> "Hello Fred And World"
+
+Naming:
+Object name -> Task005
+Method name -> transformSentence(<string>) -> expect return string with uppercase each word
+
+Tips:
+Check what "string".toUpperCase() and "string".split() do
+Furthermore array.join() and "string".substring() may help
