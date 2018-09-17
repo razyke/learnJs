@@ -1,0 +1,17 @@
+Task006 - "hi" words
+
+Task:
+We have a sentence, where we need count how much "hi" words we found.
+Be aware "fjehivv4" -> there isn't "hi" word, only " hi " we need
+
+Example:
+
+getHiWordsCount("hi HI Hi hI hehi hi mihi hi") -> 3
+
+Naming:
+Object name -> Task006
+Method name -> getHiWordsCount(<string>) -> expect return number
+
+Tips:
+Look what the String.match() do
+Don't forget if match doesn't found anything hi will return null
