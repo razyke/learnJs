@@ -1,0 +1,12 @@
+Task006 - Reverse word
+
+Task:
+We want reverse word!
+
+Example:
+
+reverseWord("Hello") -> "olleH"
+
+Naming:
+Object name -> Task007
+Method name -> reverseWord(<string>) -> expect return reversed string
