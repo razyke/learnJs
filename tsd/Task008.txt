@@ -1,0 +1,17 @@
+Task008 - Degree Celsius to Kelvin/Fahrenheit
+
+Task:
+We have degree Celsius and using our "convertTo" method it will convert to Kelvin or Fahrenheit
+Second parameter in method could be <string> "Kelvin" or "Fahrenheit" if it's not, return Celsius value.
+Be aware that we expect return a value double, max 2 numbers after comma.
+So if we have 14.34999999999 -> 14.35 and so on.
+
+Example:
+
+convertTo(17.5, "Fahrenheit") -> 63.5
+convertTo(25, "Kelvin") -> 298.15
+convertTo(7.7, "qwdfrjqw") -> 7.7
+
+Naming:
+Object name -> Task008
+Method name -> convertTo(<double>, <string>) -> expect return converted value

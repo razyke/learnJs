@@ -1,4 +1,4 @@
-Task006 - Reverse word
+Task007 - Reverse word
 
 Task:
 We want reverse word!
