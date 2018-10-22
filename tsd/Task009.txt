@@ -1,0 +1,15 @@
+Task009 - Salary increase tool
+
+Task:
+We suggest the new pay system for employers!
+And this method help us to calculate salary.
+But if employee want increase more that 50% we reject and return same salary.
+
+Example:
+
+calculateIncreaseSalary(10000, 20) -> 12000
+calculateIncreaseSalary(20000, 60) -> 20000
+
+Naming:
+Object name -> Task009
+Method name -> calculateIncreaseSalary(<double>, <int>) -> expect return number
