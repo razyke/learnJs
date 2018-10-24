@@ -1,0 +1,12 @@
+Task010 - Sort names
+
+Task:
+We have array with names, but they are not sorted.
+We should make function that will return sorted by names.
+
+Example:
+sortByNames(["Louis", "Abram", "Ray", "Bill"]) -> ["Abram", "Bill", "Louis", "Ray"]
+
+Naming:
+Object name -> Task010
+Method name -> sortByNames(<array>) -> expect return sorted array
